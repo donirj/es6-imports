@@ -9,5 +9,5 @@ console.log(sum2)
 
 const multi1 = multi(sum, sum2)
 
-console.log(chalk.blue(multi1));
+console.log(chalk.green(multi1));
 
